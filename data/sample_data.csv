@@ -1,0 +1,3 @@
+tenure,MonthlyCharges,TotalCharges,Contract,InternetService,Churn
+5,70.2,350.4,Month-to-month,Fiber optic,Yes
+24,50.1,1200.3,Two year,DSL,No
